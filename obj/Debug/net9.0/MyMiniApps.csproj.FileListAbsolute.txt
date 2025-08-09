@@ -40,3 +40,4 @@ C:\Users\User2\Desktop\dcit318-assignment2-11137631\obj\Debug\net9.0\refint\MyMi
 C:\Users\User2\Desktop\dcit318-assignment2-11137631\obj\Debug\net9.0\MyMiniApps.pdb
 C:\Users\User2\Desktop\dcit318-assignment2-11137631\obj\Debug\net9.0\MyMiniApps.genruntimeconfig.cache
 C:\Users\User2\Desktop\dcit318-assignment2-11137631\obj\Debug\net9.0\ref\MyMiniApps.dll
+C:\Users\User2\Desktop\dcit318-assignment2-11137631\obj\Debug\net9.0\MyMiniApps.sourcelink.json

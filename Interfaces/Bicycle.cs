@@ -1,4 +1,4 @@
-namespace OOP_Demo.Interfaces
+namespace dcit318_assignment2_11137631.Interfaces
 {
     public class Bicycle : IMovable
     {
